@@ -6,3 +6,6 @@
 1.3) TRUE
 1.4) TRUE
 1.5) TRUE TRUE
+
+# 3
+Uma interface não deve conter a implementação dos métodos
