@@ -4,7 +4,7 @@
 1.1) TRUE<br /> 
 1.2) ERRO <br /> 
 1.3) TRUE<br /> 
-1.4) TRUE<br /> 
+1.4) false<br /> 
 1.5) TRUE TRUE<br /> 
 
 # 3
